@@ -1,0 +1,12 @@
+Licuadora,10,Electrodomésticos,59.99
+Horno,5,Electrodomésticos,249.99
+Batidora,15,Electrodomésticos,39.99
+Sartén,20,Artículos de Cocina,19.99
+Microondas,8,Electrodomésticos,129.99
+Olla,12,Artículos de Cocina,29.99
+Freidora,7,Electrodomésticos,79.99
+Refractario,25,Artículos de Cocina,14.99
+Parrilla,6,Electrodomésticos,89.99
+Rebanador,3,Electrodomésticos,49.99
+Kit Cubiertos,18,Artículos de Cocina,24.99
+Cuchillo de Cocina,30,Artículos de Cocina,9.99

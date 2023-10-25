@@ -1,0 +1,5 @@
+12345678  Juan    Cartagena  Barranquilla   2023-09-01  A1
+23456789  Maria   Bogota  Cali   2023-09-02  B2
+12345678  Juan    Medellin  Barranquilla   2023-09-05  C3
+34567890  Carlos  Cali  Cartagena   2023-09-03  D4
+45678901  Laura   Barranquilla  Bogota   2023-09-10  E5
